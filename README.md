@@ -124,5 +124,5 @@ This project demonstrates how raw banking data can be transformed into meaningfu
 ## 👤 Author
 
 **Matthew Ferrer**
-Aspiring Data Analyst | Data Analytics | Automation | AI Strategy
+ Data Analyst | Data Analytics | Automation | AI Strategy
 
