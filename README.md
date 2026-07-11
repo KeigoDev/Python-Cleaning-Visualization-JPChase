@@ -18,6 +18,8 @@ This analysis aims to answer the following key questions:
 * Which geographic regions (State/City) contribute the most?
 * Are there branches with declining or unstable performance?
 
+## Dataset Kaggle,com
+* https://www.kaggle.com/datasets/chasebank/bank-deposits
 
 
 ## 🗂️ Dataset Description
